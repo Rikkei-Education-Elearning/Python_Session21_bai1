@@ -4,7 +4,7 @@ Unit tests for Wallet class.
 
 import unittest
 
-from ex1 import (
+from bai1 import (
     Wallet,
     InvalidAmountError,
     InsufficientBalanceError
